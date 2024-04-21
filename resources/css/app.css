@@ -1,0 +1,7 @@
+.payment-list {
+    border: 1px solid #ccc; /* Mengatur border */
+    padding: 10px; /* Memberi padding agar kontennya tidak terlalu dekat dengan border */
+    border-radius: 5px; /* Memberi radius pada border untuk membuatnya menjadi kotak */
+    background-color: #f9f9f9; /* Memberi warna latar belakang */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Memberi bayangan untuk efek visual */
+}
